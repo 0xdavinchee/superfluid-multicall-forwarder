@@ -1,0 +1,10 @@
+@ds/=lib/multicall/lib/ds-test/src/
+@std/=lib/multicall/lib/forge-std/src/
+ds-test/=lib/forge-std/lib/ds-test/src/
+forge-std/=lib/forge-std/src/
+multicall/=lib/multicall/src/
+superfluid-contracts/=lib/superfluid-protocol-monorepo/packages/ethereum-contracts/contracts/
+erc4626-tests/=lib/openzeppelin-contracts/lib/erc4626-tests/
+openzeppelin-contracts/=lib/openzeppelin-contracts/
+openzeppelin/=lib/openzeppelin-contracts/contracts/
+@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
